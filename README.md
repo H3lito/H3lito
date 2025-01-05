@@ -2,7 +2,7 @@
 
 [![Youtube](https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white)](http://www.youtube.com/@h3litomendes)
 [![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](http://www.instagram.com/helitom___)
-[![Linkedin](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](www.linkedin.com/in/hélito-mendes-a39890261)
+[![Linkedin](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)]([www.linkedin.com/in/hélito-mendes-a39890261](https://www.linkedin.com/in/h%C3%A9lito-mendes-a39890261?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=android_app))
 
 ![Mendes GitHub stats](https://github-readme-stats.vercel.app/api?username=H3lito&show_icons=true&theme=radical)
 
