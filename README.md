@@ -9,6 +9,7 @@
 ### Tecnologias utilizadas diaramente
 <div style= "display:inline_block"><br/>
 <img align= "center" alt="C" src="https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white"/>
+<img align= "center" alt="Java" src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white"/>
   
 </div><br/>
  Estudante de Engenharia de Redes e Sistemas de Computadores no Instituto Politécnico Viana do Castelo <br/>
