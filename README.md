@@ -13,6 +13,9 @@
 <img align= "center" alt="Visual Studio Code" src="https://custom-icon-badges.demolab.com/badge/Visual%20Studio%20Code-0078d7.svg?logo=vsc&logoColor=white)](#)"/>
   
 </div><br/>
- Estudante de Engenharia de Redes e Sistemas de Computadores no Instituto Politécnico Viana do Castelo <br/>
+ 🎓 Estudante de Engenharia de Redes e Sistemas de Computadores | Escola Superior de Tecnologia e Gestão - IPVC
+💡 Técnico Certificado em Administração de Sistemas e Bases de Dados | Certificação Nível 4
+
+Atualmente a frequentar o 2.º ano do curso de Engenharia de Redes e Sistemas de Computadores, com interesse nas áreas de redes, administração de sistemas e programação. Concluí um curso técnico profissional no ensino secundário, onde desenvolvi competências práticas em administração de sistemas e bases de dados, obtendo o Certificado de Qualificação Profissional de Nível 4.<br/>
 "Não deixe as frustrações dominarem você, domine-as. Faça dos erros uma oportunidade para crescer. Na vida, erra quem não sabe lidar com seus fracassos." Augusto Cury
 
