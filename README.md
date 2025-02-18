@@ -10,7 +10,7 @@
 <div style= "display:inline_block"><br/>
 <img align= "center" alt="C" src="https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white"/>
 <img align= "center" alt="Java" src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white"/>
-<img align= "center" alt="Java" src="[![Visual Studio Code](https://custom-icon-badges.demolab.com/badge/Visual%20Studio%20Code-0078d7.svg?logo=vsc&logoColor=white)](#)"/>
+<img align= "center" alt="Visual Studio Code" src="https://custom-icon-badges.demolab.com/badge/Visual%20Studio%20Code-0078d7.svg?logo=vsc&logoColor=white)](#)"/>
   
 </div><br/>
  Estudante de Engenharia de Redes e Sistemas de Computadores no Instituto Politécnico Viana do Castelo <br/>
