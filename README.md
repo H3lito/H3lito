@@ -4,7 +4,7 @@
 [![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](http://www.instagram.com/helitom___)
 [![Linkedin](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](www.linkedin.com/in/)
 
-![Mendes GitHub stats](![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=h3lito&hide_progress=true))
+
 
 ### Tecnologias utilizadas diaramente
 <div style= "display:inline_block"><br/>
