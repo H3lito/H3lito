@@ -13,7 +13,7 @@
 <img align= "center" alt="Mongo DB" src="[https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white](https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge&logo=mongodb&logoColor=white)"/>
 <img align= "center" alt="PHPMyAdmin" src="[https://img.shields.io/badge/MySQL-005C84?style=for-the-badge&logo=mysql&logoColor=white](https://img.shields.io/badge/phpmyadmin-6C78AF?style=for-the-badge&logo=phpmyadmin&logoColor=white)"/>
 <img align= "center" alt="NodeJS" src="https://img.shields.io/badge/Node%20js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white"/>
-  <img align= "center" alt="Arduino IDE" src="[https://img.shields.io/badge/Node%20js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white](https://img.shields.io/badge/Arduino_IDE-00979D?style=for-the-badge&logo=arduino&logoColor=white")"/>
+<img align= "center" alt="Arduino IDE" src="[https://img.shields.io/badge/Node%20js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white](https://img.shields.io/badge/Arduino_IDE-00979D?style=for-the-badge&logo=arduino&logoColor=white")"/>
   
 </div><br/>
  🎓 Estudante de Engenharia de Redes e Sistemas de Computadores | Escola Superior de Tecnologia e Gestão - IPVC <br>
