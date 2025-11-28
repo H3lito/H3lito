@@ -1,23 +1,23 @@
 ### Olá, eu sou Hélito Mendes 👋
 
-[![Youtube](https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white)](http://www.youtube.com/@h3litomendes)
-[![Linkedin](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](www.linkedin.com/in/helitomendes)
+## About Me
+Estudante 3ºano da licenciatura de Engenharia de Redes e Sistemas de Computadores no Instituto Politécnico de Viana do Castelo, com especial interesse nas áreas de redes, administração de sistemas, cibersegurança e gestão de dados sensíveis.
 
+## Technologies
+[![HTML](https://img.shields.io/badge/html-000000?style=for-the-badge&logo=html5&logoColor=white)]()
+[![CSS](https://img.shields.io/badge/css-000000?style=for-the-badge&logo=css&logoColor=white)]()
+[![JAVASCRIPT](https://img.shields.io/badge/javascript-000000?style=for-the-badge&logo=javascript&logoColor=white)]()
+[![BOOTSTRAP](https://img.shields.io/badge/bootstrap-000000?style=for-the-badge&logo=bootstrap&logoColor=white)]()
+[![MYSQL](https://img.shields.io/badge/mysql-000000?style=for-the-badge&logo=mysql&logoColor=white)]()
+[![GITHUB](https://img.shields.io/badge/github-000000?style=for-the-badge&logo=github&logoColor=white)]()
+[![FIGMA](https://img.shields.io/badge/figma-000000?style=for-the-badge&logo=figma&logoColor=white)]()
 
-
-### Tecnologias utilizadas 
-<div style= "display:inline_block"><br/>
-<img align= "center" alt="C" src="https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white"/>
-<img align= "center" alt="Java" src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white"/>
-<img align= "center" alt="Visual Studio Code" src="https://custom-icon-badges.demolab.com/badge/Visual%20Studio%20Code-0078d7.svg?logo=vsc&logoColor=white)](#)"/>
-<img align= "center" alt="Mongo DB" src="[https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white](https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge&logo=mongodb&logoColor=white)"/>
-<img align= "center" alt="PHPMyAdmin" src="[https://img.shields.io/badge/MySQL-005C84?style=for-the-badge&logo=mysql&logoColor=white](https://img.shields.io/badge/phpmyadmin-6C78AF?style=for-the-badge&logo=phpmyadmin&logoColor=white)"/>
-<img align= "center" alt="NodeJS" src="https://img.shields.io/badge/Node%20js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white"/>
-<img align= "center" alt="Arduino IDE" src="[https://img.shields.io/badge/Node%20js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white](https://img.shields.io/badge/Arduino_IDE-00979D?style=for-the-badge&logo=arduino&logoColor=white")"/>
-  
-</div><br/>
- 🎓 Estudante de Engenharia de Redes e Sistemas de Computadores | Escola Superior de Tecnologia e Gestão - IPVC <br>
-  💡 Técnico Certificado em Administração de Sistemas e Bases de Dados | Certificação Nível 4 <br>
-
+## Languages
+ **Português**: nativo
  
+ ## Statistics
 
+<div align="center">
+  <img height="240em" src="https://github-readme-sooty.vercel.app/api?username=caiolucasbittencourt&show=reviews,discussions_started,discussions_answered,prs_merged,prs_merged_percentage&hide_title=true&show_icons=true&theme=dark&hide_border=true&bg_color=000&icon_color=fff&title_color=fff&text_color=ffffff&custom_title=GitHub%20Stats&border_radius=0&count_private=true" />
+  <img height="240em" src="https://github-readme-beige-nine.vercel.app/api/top-langs/?username=caiolucasbittencourt&layout=compact&hide_title=true&show_icons=true&theme=dark&hide_border=true&bg_color=000&icon_color=fff&title_color=fff&text_color=ffffff&custom_title=GitHub%20Stats&langs_count=12&border_radius=0&include_private=true" />
+</div>
