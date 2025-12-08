@@ -1,4 +1,4 @@
-### Olá, eu sou Hélito Mendes 👋
+### Hi, I'm Hélito Mendes 👋
 
 ## About Me
 Estudante 3ºano da licenciatura de Engenharia de Redes e Sistemas de Computadores no Instituto Politécnico de Viana do Castelo, com especial interesse nas áreas de redes, administração de sistemas, cibersegurança e gestão de dados sensíveis.
