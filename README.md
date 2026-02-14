@@ -12,7 +12,4 @@ Estudante 3ºano da licenciatura de Engenharia de Redes e Sistemas de Computador
 [![GITHUB](https://img.shields.io/badge/github-000000?style=for-the-badge&logo=github&logoColor=white)]()
 [![FIGMA](https://img.shields.io/badge/figma-000000?style=for-the-badge&logo=figma&logoColor=white)]()
 
-## Languages
- **Português**: C1
- 
- 
+
